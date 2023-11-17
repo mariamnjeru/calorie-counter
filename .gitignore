@@ -1,0 +1,8 @@
+#ignore virtual environment
+.venv
+
+#ignore prototype notebook
+calcount.ipynb
+
+#ignore Mac Files
+.DS_Store
