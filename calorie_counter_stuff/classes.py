@@ -4,7 +4,7 @@ import datetime
 import itertools
 
 """
-hi
+
 This code defines an Order class to manage and process customer orders for meals and combos from a menu. It allows customers to place two separate orders and calculates the total calories and price for each order. If the total calories of an order exceed 2000, the order is declined with a reason.
 
 The Order class has the following attributes and properties:
